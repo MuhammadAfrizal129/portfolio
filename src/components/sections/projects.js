@@ -150,7 +150,7 @@ const Projects = ({ data }) => {
         View Complete List of Projects/Codes
       </StyledArchiveLink>
 
-      {/* <StyledGrid>
+      {<StyledGrid>
         <TransitionGroup className="projects">
           {projectsToShow &&
             projectsToShow.map(({ node }, i) => {
@@ -214,7 +214,7 @@ const Projects = ({ data }) => {
               );
             })}
         </TransitionGroup>
-      </StyledGrid> */}
+      </StyledGrid>}
 
       <StyledMoreButton onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}

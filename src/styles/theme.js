@@ -38,6 +38,7 @@ const theme = {
     dark: '#ffffff',
     transGreen: hex2rgba(ACCENT, 0.7),
     shadowNavy: hex2rgba(DARK_BG, 0.07),
+    blue: '#4974a5',
   },
 
   fonts: {
