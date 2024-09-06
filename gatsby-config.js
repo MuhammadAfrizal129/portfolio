@@ -7,6 +7,9 @@ module.exports = {
     description: config.siteDescription,
     image: '/images/og.png',
   },
+  flags: {
+    DEV_SSR: true
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
