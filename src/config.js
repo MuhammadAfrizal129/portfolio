@@ -23,10 +23,7 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/muhammadafrizal129/',
     },
-    //{
-      //name: 'Codepen',
-      //url: 'https://codepen.io/yashitanamdeo',
-    //},
+
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/muhammad_afriz',
