@@ -3,7 +3,7 @@ date: '2024-07-01'
 title: 'Internship'
 company: 'Alkademi'
 location: 'Jl. Cisitu Indah VI. No. 6, Kota Bandung'
-range: 'July - August 2024'
+range: 'July - September 2024'
 url: 'https://alkademi.id/'
 ---
 
